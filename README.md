@@ -1,2 +1,3 @@
 # RecipeAp1
-This is the first repository of project named recipe application
+This is the repository of first project named recipe application
+Author - Athifa
